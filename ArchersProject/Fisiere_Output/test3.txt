@@ -1,0 +1,18 @@
+Dimensiunea tablei este: 11 x 11
+Distanta pana la care pot trage arcasii pe linii si coloane este: 5
+Distanta pana la care pot trage arcasii pe diagonale este: 3
+A ~ ~ ~ ~ ~ A ~ ~ ~ ~ 
+~ ~ ~ A ~ ~ ~ ~ ~ A ~ 
+~ A ~ ~ ~ ~ ~ A ~ Z ~ 
+~ ~ ~ ~ A ~ ~ Z ~ ~ A 
+~ ~ A ~ ~ ~ ~ ~ A ~ ~ 
+Z ~ ~ ~ ~ A ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+
+Arcasii au fost asezati cu succes! 
+Timpul de executie a fost de: 0.0009711000000000025 secunde

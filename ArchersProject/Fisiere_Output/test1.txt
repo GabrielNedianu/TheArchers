@@ -1,0 +1,10 @@
+Dimensiunea tablei este: 3 x 3
+Distanta pana la care pot trage arcasii pe linii si coloane este: 2
+Distanta pana la care pot trage arcasii pe diagonale este: 1
+A Z A 
+~ ~ ~ 
+~ A ~ 
+
+
+Arcasii au fost asezati cu succes! 
+Timpul de executie a fost de: 0.0004272000000000026 secunde
